@@ -1,0 +1,10 @@
+a{
+	align-items: center;
+	padding: 5px 20px;
+	text-decoration: none;
+	background-color: #000;
+	color:#fff;
+	border: 1px solid #000;
+	margin-right:5px;
+	font-size: 10px;
+	transition:0.3s;

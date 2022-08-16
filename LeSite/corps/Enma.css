@@ -1,0 +1,15 @@
+h1{
+	color : #24D40F;
+}
+
+a{
+	align-items: center;
+	padding: 5px 20px;
+	text-decoration: none;
+	background-color: #24D40F;
+	color:black;
+	border: 1px solid #000;
+	margin-right:5px;
+	transition:0.3s;
+	font-size:12px;
+}
